@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le fe del Christiano en veyntequatro articulos de la institucion de Christo embiada a los españoles, paraque abran sus ojos, y paraque se conviertan de las Tinieblas a la luz, y de la potestad de Satanas a Dios : paraque reciban por la fe que es en Jesu Christo, remission de peccado, y suerte entre los sanctificados / por C. Mathero ...</title>
+            <author>Mather, Cotton, 1663-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50131</idno>
+            <idno type="STC">Wing M1110</idno>
+            <idno type="STC">ESTC R31236</idno>
+            <idno type="EEBO-CITATION">11795237</idno>
+            <idno type="OCLC">ocm 11795237</idno>
+            <idno type="VID">49294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Le fe del Christiano en veyntequatro articulos de la institucion de Christo embiada a los españoles, paraque abran sus ojos, y paraque se conviertan de las Tinieblas a la luz, y de la potestad de Satanas a Dios : paraque reciban por la fe que es en Jesu Christo, remission de peccado, y suerte entre los sanctificados / por C. Mathero ...</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[by B. Green and J. Allen],</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Caption title: La religion pura, en doze palabras fieles y dignas de ser recibidas de Todos, p. 10-16.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="spa">spa</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="spa">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:49294:1"/>
+               <pb facs="tcp:49294:1"/> La Fe del Chriſtiano: En Veyntequatro Articulos de la Inſtitucion de <hi>CHRISTO.</hi>
+            </p>
+            <p>Embiada A LOS ESPAÑOLES, Paraque abran ſus ojos, y paraque ſe Conviertan de las Tinieblas a la luz, y de la poteſtad de Satanas a Dios: Paraque reciban por la Fe que es en <hi>JES<g ref="char:V">Ʋ</g> CHRISTO,</hi> Remiſſion de peccados, y Suerte Entre los <hi>Sanctificados.</hi>
+            </p>
+            <p>Por C. MATHERO, <hi>Siervo del Señor JES<g ref="char:V">Ʋ</g> CHRISTO.</hi>
+            </p>
+            <q>
+               <bibl>II Timoth. 1. 13.</bibl>
+               <p>
+                  <hi>Reten la Forma de las Sanas palabras, que de mi oyſte, en la Fe, y Charidad, que es en Chriſto Jeſus.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>BOSTON,</hi> 1699.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:49294:2" rendition="simple:additions"/>
+            <q>
+               <bibl>
+                  <hi>Apocalyp.</hi> cap. 18. 4.</bibl>
+               <p>Y oi otra boz del cielo, que dezia, Salid della <hi>[i. e.</hi> de la <hi>Roma]</hi> pueblo mio, porque no ſeays participantes de ſus Peccados, y que no recibays de ſus Plagas.</p>
+               <p>Atqui jus divinum Eccle<g ref="char:EOLhyphen"/>ſia tollere, aut immutare non poteſt. <hi>A Coſta</hi> de procur. Indorum Salute, <hi>p.</hi>
+530.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div n="faith" type="articles">
+            <pb n="3" facs="tcp:49294:2"/>
+            <head>La Fe del Chriſtiano; En Veyntiquatro Articulos de la Inſtitucion de Chriſto.</head>
+            <div n="1" type="article">
+               <head>I. <hi>De las Eſcrituras.</hi>
+               </head>
+               <p>TOda Eſcriptura es inſpirada di<g ref="char:EOLhyphen"/>vinamente.
+<note place="margin">2 <hi>Tim.</hi> 3. 15.</note>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>II. <hi>De Dios.</hi>
+               </head>
+               <p>Noſotros no tenemos mas de un
+<note place="margin">1 <hi>Cor.</hi> 8. 6</note> Dios, del qual ſon todas las coſas.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III. <hi>De las Perſonas en Dios.</hi>
+               </head>
+               <p>Dios es el Padre, y el Hijo, y el
+<note place="margin">
+                     <hi>Math.</hi> 28 19.</note> Eſpiritu Sancto.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV. <hi>De los Decretos de Dios.</hi>
+               </head>
+               <p>Dios Señalo algunos antes para Ser Adoptados en Hijos por Jeſu Chriſto,
+<note place="margin">
+                     <hi>Eph.</hi> 1. 5, 11.</note> en ſi miſmo, por el buen Querer de ſu voluntad,—que haze todas las Coſas por el Arbitrio de ſu voluntad.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V. <hi>De la Criacion del Mundo.</hi>
+               </head>
+               <p>En el prencipio crio Dios los Cielos, y la Tierra. Y vido Dios todo lo que
+<note place="margin">
+                     <hi>Gen.</hi> 1. 1. 31</note> avia hecho, y heaqui que era bueno en gran manera.</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="4" facs="tcp:49294:3"/>
+               <head>VI. <hi>De la Providencia.</hi>
+               </head>
+               <p>Dios Suſtienta todas las Coſas, con la palabra de ſu potencia.
+<note place="margin">
+                     <hi>Heb.</hi> 1. 3</note>
+               </p>
+            </div>
+            <div n="7" type="article">
+               <head>VII. <hi>De los Angeles.</hi>
+               </head>
+               <p>Los Angeles ſon todos eſpiritus Ser<g ref="char:EOLhyphen"/>vidores, Embiados en Servicio por
+<note place="margin">
+                     <hi>Hebr.</hi> 1. 14.</note> cauſa de los, que ſeran Herederos de ſalud. Y Angeles que no guardaron ſu Origen, mas dexaron ſu habitacion,
+<note place="margin">
+                     <hi>Jud.</hi> 6.</note> los Dios ha reſervado, debaxo de eſ<g ref="char:EOLhyphen"/>curidad en priſiones Eternas, haſta el Iuyzio de aquel gran dia.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII. <hi>Del eſtado del Hombre delante del peccado.</hi>
+               </head>
+               <p>Crio Dios al Hombre a ſu Imagen; a Imagen de Dios lo crio.
+<note place="margin">
+                     <hi>Gen.</hi> 1. 27</note>
+               </p>
+            </div>
+            <div n="9" type="article">
+               <head>IX. <hi>Del eſtado del Hombre, deſpues del peccado.</hi>
+               </head>
+               <p>El peccado entro en el Mundo por un Hombre, y por el peccado la muerte; y la muerte anſi paſſo a todos
+<note place="margin">
+                     <hi>Rom.</hi> 5. 12</note> los Hombres, en aquel en quien todos peccaron.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X. <hi>De la Redemcion de peccadores.</hi>
+               </head>
+               <p>De tal manera amo Dios al Mundo que aya dado a ſu Hijo Unigenito:
+<note place="margin">
+                     <hi>Joan.</hi> 3. 16</note> Paraque todo aquel que en el cree, no ſe pierda, mas ay a vida Eterna.</p>
+            </div>
+            <div n="11" type="article">
+               <pb n="5" facs="tcp:49294:3"/>
+               <head>XI. <hi>De las Naturas en la perſona de nueſtro Redemptor.</hi>
+               </head>
+               <p>De los Iſraelitas, es Chriſto ſegun la
+<note place="margin">
+                     <hi>Rom</hi> 9. 5</note> carne, el qual es Dios ſobre todas las coſas, Bendito por ſiglos.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII. <hi>De las Dos condiciones de nueſtro Redemptor.</hi>
+               </head>
+               <p>Chriſto Jeſus agatoſe a ſi miſmo, tomando forma de ſiervo, hecho ſe<g ref="char:EOLhyphen"/>mejante
+<note place="margin">
+                     <hi>Phil.</hi> 2. 7, 8, 9.</note> a los Hombres: Y hallado como Hombre en la Condicion, ſe hu<g ref="char:EOLhyphen"/>millo a ſi miſmo, hecho obediente haſta la muerte, y muerte de cruz. Por loqual Dios tambien lo enſalzo, y le dio Nombre que es ſobre todo nombre.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII. <hi>De la Venida ſegunda del Salva<g ref="char:EOLhyphen"/>dor nuiſtro Jeſu Christo.</hi>
+               </head>
+               <p>Dios ha Eſtablecido un Dia, en el qual, ha de Juzgar con Juſticia a todo el mundo, por aquel Varon el qual de<g ref="char:EOLhyphen"/>termino,
+<note place="margin">
+                     <hi>Acts</hi> 17. 31.</note> dando fe a todos, levantando<g ref="char:EOLhyphen"/>lo de los muertos.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV. <hi>De la Reſurreccion de los muertos.</hi>
+               </head>
+               <p>Vendra hora, quando todos los que
+<note place="margin">
+                     <hi>Joan</hi> 5 28, 29.</note> eſtan en los ſepulchros, oyran la Boz de Jeſu Chriſto; y los que hizieron bienes, ſaldran a Reſurrecion de Vida; mas los que hizieron males, a Reſurrecion de Juyzio.</p>
+            </div>
+            <div n="15" type="article">
+               <pb n="6" facs="tcp:49294:4"/>
+               <head>XV. <hi>Del camino que lleva a la ſalud.</hi>
+               </head>
+               <p>Por Gracia ſomos ſalvos, por la Fe;
+<note place="margin">
+                     <hi>Eph.</hi> 2. 8.</note> y eſto no de noſotros, que Don de Dios es.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI. <hi>De la Justificacion de los Fieles.</hi>
+               </head>
+               <p>Por Jeſu Chriſto es annunciada Re<g ref="char:EOLhyphen"/>miſſion de peccados; Y en El es Juſtificado todo aquel que creyere.
+<note place="margin">
+                     <hi>Act.</hi> 13. 38, 39.</note>
+               </p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII. <hi>De la Obediencia de los Fieles.</hi>
+               </head>
+               <p>Palabra fiel es, que los que creen a Dios, procuren governarſe en buenas
+<note place="margin">
+                     <hi>Tit.</hi> 3. 8.</note> obras; eſto es lo bueno, y lo util a los hombres.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII. <hi>De la perſeverancia de los Fieles.</hi>
+               </head>
+               <p>El qui commenzo en noſotros la buena obra, la perncionara haſta el
+<note place="margin">
+                     <hi>Phil.</hi> 1. 6.</note> Dia de Jeſu Chriſto.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX. <hi>De la Regla de la Vida.</hi>
+               </head>
+               <p>Hablo Dios todas eſtas palabras, di<g ref="char:EOLhyphen"/>ziendo.
+<note place="margin">
+                     <hi>Exod.</hi> 20</note>
+               </p>
+               <list>
+                  <item>1. No tendras Dioſes agenos delante de mi.</item>
+                  <item>2. No te haras Imagen, ni ninguna ſemejanza, no te inclinaras a ellas, ni las honrraras.</item>
+                  <item>3. No tomaras el Nombre de Jehova tu Dios en vano.</item>
+                  <item>
+                     <pb n="7" facs="tcp:49294:4"/>
+4. Acordartehas de Dia del Sabbado, para Sanctificarlo.</item>
+                  <item>5 Honrra a tu padre, y tu madre.</item>
+                  <item>6. No Mataras.</item>
+                  <item>7. No cometeras Adulterio.</item>
+                  <item>8. No Hurtaras.</item>
+                  <item>9. No hablaras contra tu proximo falſo teſtimonio</item>
+                  <item>10. No cobdiciaras coſa alguna de tu proximo.</item>
+               </list>
+            </div>
+            <div n="20" type="article">
+               <head>XX. <hi>De la Regla del Ruego.</hi>
+               </head>
+               <p>Jeſus Chriſto Enſeñava ſus Diſcipulos,
+<note place="margin">
+                     <hi>Matth.</hi> 6:</note> diziendo, Orareys anſi.</p>
+               <list>
+                  <item>1. Padre nueſtro, que eſtas en los cielos:</item>
+                  <item>2. Sea Sanctiſicado tu Nombre:</item>
+                  <item>3. Venga tu Reyno:</item>
+                  <item>4. Sea hecha tu Voluntad; como en el Cielo, anſi tambien en la Tierra:</item>
+                  <item>5. Danos oy nueſtro Pan quotidiano:</item>
+                  <item>6 Y Sueltanos nueſtras deudas, como tambien noſotios Soltamos a nueſtros deudores:</item>
+                  <item>7. Y no nos metas en Tentacion, mas libra nos de mal:</item>
+                  <item>8. Porque Tuyo es el Reyno, y la Potencia, y la Gloria, por todos los Siglos. <hi>Amen.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="21" type="article">
+               <pb n="8" facs="tcp:49294:5"/>
+               <head>XXI. <hi>De la Igleſia.</hi>
+               </head>
+               <p>Se dezia a JESUS, Tu eres el Chriſto, el Hijo del Dios Biviente: En<g ref="char:EOLhyphen"/>tonces
+<note place="margin">
+                     <hi>Matth</hi> 16<g ref="char:punc">▪</g> 16, 18</note> reſpondiendo Jeſus, dixo, Sobre Eſta piedra edifieare mi Igleſia, y las puertas del Infierno no prevaleceran contra ella.</p>
+            </div>
+            <div n="22" type="article">
+               <head>XXII. <hi>De los Adminiſtradores en la Igleſia.</hi>
+               </head>
+               <p>Los Ancianos que goviernan bien,
+<note place="margin">1 <hi>Tim.</hi> 5 17.</note> (en la Igleſia) Son dignos de Doblada Honrra; y mayormente los que Tra<g ref="char:EOLhyphen"/>bajan, en predicar y enſeñar.</p>
+               <p>Los Diaconos anſi miſmo, que ten<g ref="char:EOLhyphen"/>gan el myſterio de la Fe con limpia
+<note place="margin">1 <hi>Tim.</hi> 3 8.</note> Conſciencia, y que bien miniſtraren, ganon para ſi buen Gradu.</p>
+            </div>
+            <div n="23" type="article">
+               <head>XXIII. <hi>De los Sacramentos, en la Igleſia.</hi>
+               </head>
+               <p>Jeſus hablo, diziendo, Id, Enſeñad
+<note place="margin">
+                     <hi>Matth.</hi> 28. 18, 19.</note> a todas las Gentes, Baptizandolos en Nombre del Padre, y del Hijo, y del Eſpiritu Sancto.</p>
+               <p>El Señor Jeſus, la noche, que fue entregado, tomo el pan: y aviendo
+<note place="margin">1 <hi>Cor:</hi> 11 23, 24. 25, 26.</note> hecho Gracias, lo partio, y dixo, <pb n="9" facs="tcp:49294:5"/> Tomad, comed, Eſto es mi cuerpo, que por voſotros es partido; hazed Eſto en memoria de mi.</p>
+               <p>Anſimiſmo tomo tambien el vaſo, deſpues de aver Cenado, diziendo, Eſte vaſo es el Nuevo Teſtamento en mi Sangre: Hazed eſto todas las vezes que bevereys, en memoria de mi. Si, anſi lo haziendo, la muerte del Señor annunciamos haſta que venga.</p>
+            </div>
+            <div n="24" type="article">
+               <head>XXIV. <hi>De la Diſciplina, en la Igleſia.</hi>
+               </head>
+               <p>Jeſus dixo, ſi tu hermano peccare contra ti, ve y redarguyelo, entre
+<note place="margin">
+                     <hi>Matth.</hi> 18. 15, 16, 17.</note> Ti y el Solo: Si te oyere, ganado has a tu hermano. Mas ſi no te oyere, toma aun Contigo uno o dos; paraque en Boca de dos o de tres teſtigos, conſiſta toda la coſa. Y ſi no oyere a ellos, di lo a la Congre<g ref="char:EOLhyphen"/>gacion; y ſi no oyere a la Congre<g ref="char:EOLhyphen"/>gacion, ten lo por un Ethnico.</p>
+            </div>
+         </div>
+         <div n="religion" type="doctrines">
+            <pb n="10" facs="tcp:49294:6"/>
+            <head>La Religion pura; En Doze Palabras Fieles, y dignas de ſer recibidas de Todos.</head>
+            <div n="1" type="doctrine">
+               <head>I</head>
+               <p>
+                  <hi>LA Palabra de Criſto en ſagrada Eſcritu<g ref="char:EOLhyphen"/>ra, deve ſer Gozada, Buſcada, y Sabida par las Gentes de todas ſuertes: y es una grande Iniquitad, impedir el Vulgo de Leer de aquella precioſa palabra de la Vida.</hi>
+               </p>
+               <q>
+                  <bibl>JOAN. <hi>cap.</hi> 5. 39.</bibl>
+                  <p>Eſcrudinad las Eſcrituras; porque ellas ſon las que dan testimonio de Mi<g ref="char:punc">▪</g>
+                  </p>
+               </q>
+               <q>
+                  <bibl>ROMAN. <hi>cap.</hi> 15 4.</bibl>
+                  <p>Las coſas que antes fueron eſcriptas, para nueſtro enſeñamiento fu<g ref="char:EOLhyphen"/>eron eſcriptas; para que por el padecer, y por la conſolacion de las eſcrituras ayamos eſpe<g ref="char:EOLhyphen"/>ranza.</p>
+               </q>
+            </div>
+            <div n="2" type="doctrine">
+               <pb n="11" facs="tcp:49294:6"/>
+               <head>II</head>
+               <p>
+                  <hi>La ſagrada Eſcritura declara baſtantamen<g ref="char:EOLhyphen"/>te todo que noſotros devemos creer, o ha<g ref="char:EOLhyphen"/>zer, al fin que conſigamos Salvacion eternal.</hi>
+               </p>
+               <q>
+                  <bibl>2 TIMOTH, <hi>cap.</hi> 3. 15, 16, 17.</bibl>
+                  <p>Las ſagradas Eſcrituras te pueden hazer ſabio para la ſalud, por la fe, que es en Chriſto Jeſus.</p>
+                  <p>Toda Eſcritura inſpirada divinamente es
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>util para enſeñar, para redarguyr, para corre<g ref="char:EOLhyphen"/>gir, para instituyr en justicia.</p>
+                  <p>Para que el hombre de Dios ſea perfecto, perfectamente instruydo, para toda buena obra.</p> 
+               </q>
+               <q>
+                  <bibl>MATH 15. 9.</bibl>
+                  <p>En vano Me honrran, en<g ref="char:EOLhyphen"/>ſeñando doctrinas, mandamientos de hombres.</p>
+               </q>
+            </div>
+            <div n="3" type="doctrine">
+               <head>III</head>
+               <p>
+                  <hi>Señor nueſtro Jeſu Chriſto es la ſola Ca<g ref="char:EOLhyphen"/>beza de ſu igleſia; y no ay ningun otro Soberano ſobre las Conciencias de los Cri<g ref="char:EOLhyphen"/>ſtianos.</hi>
+               </p>
+               <q>
+                  <bibl>MATH. <hi>cap.</hi> 23. 8.</bibl>
+                  <p>
+                     <g ref="char:V">Ʋ</g>no es vuestro Maeſtro, el CHRISTO, y todos voſotros ſoys hermanos.</p>
+               </q>
+               <q>
+                  <bibl>EPHES. <hi>cap.</hi> 1. 22.</bibl>
+                  <p>Sujetando le todas las coſas debaxo ae ſus pies, y poniendo le por Cabeza ſobre todas las coſas a la Igleſia.</p>
+               </q>
+            </div>
+            <div n="4" type="doctrine">
+               <pb n="12" facs="tcp:49294:7"/>
+               <head>IV</head>
+               <p>
+                  <hi>El Papa de</hi> Roma <hi>es el Antichriſto, y el hombre de Peccado, deſcrivido y prenuncia<g ref="char:EOLhyphen"/>do en la Palabra del Señor nueſtro JESU CHRISTO.</hi>
+               </p>
+               <q>
+                  <bibl>II THESSAL. <hi>cap.</hi> 2. 3, 4, 7, 8.</bibl>
+                  <p>—Se manifeste el hombre de Peccado, el Hijo de Perdicion,</p>
+                  <p>Opponiendo ſe y levantando ſe contra todo loque ſe llama Dios, o divinidad: tanto que ſe aſſiente en el Templo de Dios como Dios, hazi<g ref="char:EOLhyphen"/>endo ſe parecer Dios.</p>
+                  <p>Por que ya ſe obra el mysterio de Iniquitad; ſolamente que el que aora domina, domine haſta que ſea quitado.</p>
+                  <p>Y entonces ſera manifeſtado aquel Iniquo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> al qual el Señor matara con el Eſpiritu de ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Boca, y con la CLARIDAD de ſu Venida lo DESTR<g ref="char:V">Ʋ</g>YRA.</p>
+               </q>
+            </div>
+            <div n="5" type="doctrine">
+               <head>V</head>
+               <p>En nueſtras Oraciones no es licito invo<g ref="char:EOLhyphen"/>car los Santos, o los Angeles: mas devemos Rezar ſolamente a Dios Todo<g ref="char:punc">▪</g>poderoſo, el nueſtro Señor Jeſu Chriſto.</p>
+               <q>
+                  <pb n="13" facs="tcp:49294:7"/>
+                  <bibl>
+                     <hi>MATTH.</hi> cap. 4. 10.</bibl>
+                  <p>
+                     <hi>Jeſus le dize—Eſcripto esta, Al Señor tu Dios adoraras, y a el ſolo ſerviras.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>II CHRON.</hi> cap. 6 30.</bibl>
+                  <p>
+                     <hi>Tu ſolo conoces coracon de los hijos de los hombres.</hi>
+                  </p>
+               </q>
+            </div>
+            <div n="6" type="doctrine">
+               <head>VI</head>
+               <p>
+                  <hi>La Juſtificacion del Peccador es obtenida ſolamente por Fe en la Juſticia de nueſtro Señor Jeſu Chriſto, que era el Fiador a Di<g ref="char:EOLhyphen"/>os por noſotros: y no por las obras, o pa<g ref="char:EOLhyphen"/>deciamentos, o merecimientos de algunas Criaturas.</hi>
+               </p>
+               <q>
+                  <bibl>ROMAN. <hi>cap.</hi> 3. 22, 24, 25, 28.</bibl>
+                  <p>La Justicia de Dios, por la Fe de Jeſu Chriſto, para todos, y ſobre todos los que creen en el:</p>
+                  <p>Juſtificados gracioſamente por ſu Gracia, por la Re<g ref="char:EOLhyphen"/>dencion que es en Jeſu:</p>
+                  <p>Al qual Dios ha propueſto por aplacacion, por la Fe en ſu ſangre.</p>
+                  <p>Ainſi concluimos ſer el hombre juſtificado por Fe, ſin las obras de la Ley.</p>
+               </q>
+               <q>
+                  <bibl>ROMAN. <hi>cap.</hi> 10. 3.</bibl>
+                  <p>Ignorando la Juſticia de Dios, y procurando de eſtablecer la ſuya, no ſon ſujetos a la Juſticia de Dios.</p>
+               </q>
+            </div>
+            <div n="7" type="doctrine">
+               <pb n="14" facs="tcp:49294:8"/>
+               <head>VII</head>
+               <p>
+                  <hi>Baptiſmo, y la Cena del Señor ſon los ſolos Sacramentos del concierto de la Gra<g ref="char:EOLunhyphen"/>cia, debaxo el Nuevo Teſtamento.</hi>
+               </p>
+               <q>
+                  <bibl>MATTH. <hi>cap.</hi> 28 19.</bibl>
+                  <p>Enſeñad a todas las Gentes: Baptizando los el Nombre del Padre, y del Hijo, y del Eſpiritu Sancto<g ref="char:punc">▪</g>
+                  </p>
+               </q>
+               <q>
+                  <bibl>1 CORINT. <hi>cap.</hi> 11. 28.</bibl>
+                  <p>Prueveſe eada uno
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſi miſmo, y coma anſi de aquel Pan, y beva de aquo Vaſo.</p>
+               </q>
+            </div>
+            <div n="8" type="doctrine">
+               <head>VIII</head>
+               <p>
+                  <hi>En Euchariſtia no es Tranſubſtanciacion del Pan conſagrado, en Cuerpo de nueſtro Señor: mas la adoracion del Pan en Eucha<g ref="char:EOLunhyphen"/>riſtia, es Idolatria criminal.</hi>
+               </p>
+               <q>
+                  <bibl>1 CORINT. <hi>cap.</hi> 11. 23, 25, 26.</bibl>
+                  <p>El Señor Jeſus la noche que fue entregado, tomo en Pan: Anſi miſmo tomo tambien el Vaſo.</p>
+                  <p>Porque todas las vezes que comierdes eſte Pan, y bevierdes eſte Vaſo, la Muerte del Señor annunciays, haſta que Venga.</p>
+               </q>
+            </div>
+            <div n="9" type="doctrine">
+               <head>IX</head>
+               <p>
+                  <hi>El Detenimiento del Vaſo de los Legos en Euchariſtia, es Praeſuncion y Sacrilegio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Vedado par nueſtro Señor Jeſu Chriſto.</hi>
+               </p>
+               <q>
+                  <pb n="15" facs="tcp:49294:8"/>
+                  <bibl>MATTH. <hi>cap.</hi> 26. 27, 28.</bibl>
+                  <p>Tomando el Vaſo, y hechas gracias, dioles diziendo, Beved de el Todos.</p>
+                  <p>Porque eſto es mi Sangre del Nuevo Teſtamento, la qual es derramada por muchos, para Remiſſion de los Peccados.</p>
+               </q>
+            </div>
+            <div n="10" type="doctrine">
+               <head>X</head>
+               <p>
+                  <hi>Todos Exercicios de la Religion hechos en la Igleſia de Dios, deven ſer hechos en Lengua ſabida a Vulgo.</hi>
+               </p>
+               <q>
+                  <bibl>1 CORINT. <hi>cap.</hi> 14. 16, 17, 26, 28.</bibl>
+                  <p>—El que occupa lugar de Idiota como dira, A<g ref="char:EOLhyphen"/>men, ſobre tu benedicion! porque no ſabe loque has dicho.—El otro no es edificado.</p>
+                  <p>Todo ſe haga a Edification.</p>
+                  <p>Si no uviere Interprete, Calle en la Igleſia.</p>
+               </q>
+               <q>
+                  <bibl>PSALM. 47. 8.</bibl>
+                  <p>Cantad Entendiendo.</p>
+               </q>
+               <q>
+                  <bibl>ROMAN. <hi>cap.</hi> 12. 1.</bibl>
+                  <p>Es vueſtro Racional culto.</p>
+               </q>
+            </div>
+            <div n="11" type="doctrine">
+               <head>XI</head>
+               <p>
+                  <hi>Doctrina que defende el Matrimonio, y aparta los hombres de las Viandas, es la doctrina de la Apoſtacia.</hi>
+               </p>
+               <q>
+                  <bibl>I TIMOTH. <hi>cap.</hi> 4. 1, 2, 3.</bibl>
+                  <p>El Eſpiritu dize manifieſtamente, que en los poſlre<g ref="char:EOLhyphen"/>ros tiempos algunos apoſtataran de Fe, eſcuchando a eſpiritus de Error, y a doctrinas de Demonios:</p>
+                  <p>
+                     <pb n="16" facs="tcp:49294:9"/> Que con Hypocriſia hablaran mentira, teniendo eanterizada la Conſciencia.</p>
+                  <p>Que defenderan el Matrimonio, apartar ſe los hom<g ref="char:EOLhyphen"/>bres de las Viandas, que Dios crio paraque con hazi<g ref="char:EOLhyphen"/>miento de gracias participaſſen de ellas los fieles, y los que han conocido la Verdad</p>
+               </q>
+            </div>
+            <div n="12" type="doctrine">
+               <head>XII</head>
+               <p>
+                  <hi>Los Eſpiritus de los Hombres, en la ora de la Muerte van o al Cielo, o al Infierno: y Purgatorio es la ficion de los Engañadores en los poſtreros tiempos.</hi>
+               </p>
+               <q>
+                  <bibl>JOAN. <hi>cap.</hi> 3. 36.</bibl>
+                  <p>El que cree en el Hijo, tiene Vida eterna: mas el que al Hijo es incredulo, no vera la Vida: mas la Yra de Dios eſta ſobre el.</p>
+               </q>
+               <q>
+                  <bibl>LUC. <hi>cap.</hi> 16. 22, 23.</bibl>
+                  <p>Acontecio que murio el mendigo, y fue llevado por los Angeles al ſeno de Abraham: y murio tambien el rico, y fue ſepultado.</p>
+                  <p>Y en el Infierno alcondo ſus ojos, eſtando en los Tormentos.</p>
+               </q>
+               <q>
+                  <bibl>ROMAN. <hi>cap.</hi> 8. 1.</bibl>
+                  <p>Ninguna Condennacion ay para los que eſtan en Chriſto Jeſus.</p>
+               </q>
+               <q>
+                  <bibl>PHILIP. <hi>cap.</hi> 1. 23.</bibl>
+                  <p>Teniendo deſſeo de ſer deſetado, y estar con Chriſto.</p>
+               </q>
+               <q>
+                  <bibl>ACTOS. <hi>cap.</hi> 7. 59.</bibl>
+                  <p>—Diziendo, Señor Jeſus, Recibe mi eſpiritu.</p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49294:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
